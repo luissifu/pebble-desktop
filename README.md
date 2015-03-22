@@ -9,7 +9,6 @@ Pebble Desktop (Pc, Mac &amp; Linux) Interface for controlling a mouse
 Dependencies:
 
 * PyUserInput
-* PyBluez
 
 Use pip and requirements.txt to install dependencies
 
