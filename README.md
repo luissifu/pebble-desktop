@@ -1,10 +1,10 @@
 # pebble-desktop
-Pebble Desktop (Pc, Mac &amp; Linux) Interface for controlling a mouse
+Pebble Desktop (Pc, Mac &amp; Linux) Interface for controlling a mouse. Made by [Luis Sifuentes](https://github.com/luissifu), [Efrain Gutierrez](https://github.com/gtzefrain) and [Fernando Contreras](https://github.com/fercreek).
 
 For the full experience you can also check this repos:
 * [Watch App](https://github.com/fercreek/PebblePointer/tree/master/watch-app)
 * [Android App](https://github.com/fercreek/AndroidWithPebble)
-* [Desktop Interface](https://github.com/luissifu/pebble-desktop)
+* **Desktop Interface**
 * [Demo App](https://github.com/luissifu/unity-fruit-ninja)
 
 ## Usage
